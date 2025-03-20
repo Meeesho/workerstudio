@@ -13,11 +13,11 @@
   };
   
   /* Step 3: enter your page title and description for SEO purposes */
-  const PAGE_TITLE = '';
-  const PAGE_DESCRIPTION = '';
+  const PAGE_TITLE = 'Studio Trepet';
+  const PAGE_DESCRIPTION = 'Studio Trepet is a brand new music production studio based in Bulgaria';
   
   /* Step 4: enter a Google Font name, you can choose from https://fonts.google.com */
-  const GOOGLE_FONT = '';
+  const GOOGLE_FONT = 'Roboto';
   
   /* Step 5: enter any custom scripts you'd like */
   const CUSTOM_SCRIPT = ``;
